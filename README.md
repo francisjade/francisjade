@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @francisjade
+- 👋 Hello, my name is Francis Jade
 - 👀 I’m interested in IT.
-- 🌱 I am currently studying Information Technology (IT) and i’m in my 2nd year..
-- 📫 How to reach me shiroujade@gmail.com.
+- 🌱 I am currently studying Information Technology (IT) and i’m in my 2nd year.
+- 📫 How to reach me shiroujade@gmail.com
 - 👁️ I want to gain more knowledge in Information Technology by also interacting with other developers and students.
 
 <!---
