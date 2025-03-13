@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @francisjade
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently An ICT student 
+- 👀 I’m interested in IT
+- 🌱 I’m currently An IT student 2nd year
 - 📫 How to reach me shiroujade@gmail.com
-- 👁️ I want to atleast inhance my knowledge,
+- 👁️ I want to atleast enhance my knowledge,
 And interact with other developers/Students
 
 <!---
